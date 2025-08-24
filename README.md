@@ -61,6 +61,6 @@ SkillPath serves three key user groups:
 
 ## 📫 Contact / Credits
 
-Made with ❤️ by [YAHYA KT , SRIDHARAN VG, UWAIS ABDUL SALAM]  
+Made with ❤️ by [YAHYA KT , MOHAMED FARKHAN N]  
 Feel free to contribute or reach out!
 
